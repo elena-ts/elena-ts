@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there, I'm " target="_blank">Elena</a> 
+### <h3 align="center">Hi there, I'm Elena IT news writer from Russia 🇷🇺</h3>
 <h3 align="center">Data science student</h3>
 
 <!--
