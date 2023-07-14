@@ -22,7 +22,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/elena-ts=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?elena-ts=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **elena-ts/elena-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
