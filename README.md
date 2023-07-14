@@ -20,6 +20,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/elena-ts=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **elena-ts/elena-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
