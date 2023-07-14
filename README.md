@@ -1,5 +1,5 @@
-#<h3 align="center">Hi there, I'm Elena</h3>
-<h3 align="center">Data science student</h3>
+# <h3 align="center">Hi there, I'm Elena</h3>
+<h3 align="center">I am a junior data scientist. I am attracted to data analysis and the creation of machine learning models for predicting results and optimizing business processes</h3>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
