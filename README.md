@@ -1,4 +1,4 @@
-# <h3 align="center">Hi there, I'm Elena</h3>
+#<h3 align="center">Hi there, I'm Elena</h3>
 <h3 align="center">Data science student</h3>
 
 
