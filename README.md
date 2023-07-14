@@ -3,7 +3,7 @@
 
 
 
-[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?elena-ts=daniilshat&theme=solarized_dark)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **elena-ts/elena-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
