@@ -1,6 +1,9 @@
 ### <h3 align="center">Hi there, I'm Elena</h3>
 <h3 align="center">Data science student</h3>
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?elena-ts=daniilshat&theme=solarized_dark)
 <!--
 **elena-ts/elena-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
