@@ -1,6 +1,8 @@
 # <h3 align="center">Hi there, I'm Elena</h3>
 <h3 align="center">I am a junior data scientist. I am attracted to data analysis and the creation of machine learning models for predicting results and optimizing business processes</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack+:)](https://git.io/typing-svg)
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
