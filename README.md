@@ -1,4 +1,4 @@
-# <h3 align="center">Hi there, I'm Elena</h3> 
+# <h3 align="center">Hi there, I'm Elena</h3>  
 <h3 align="center">I am a junior data scientist. I am attracted to data analysis and the creation of machine learning models for predicting results and optimizing business processes</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack+:)](https://git.io/typing-svg)
